@@ -7,3 +7,6 @@ Traceback (most recent call last):
     Hekki
 NameError: name 'Hekki' is not defined
 making name
+SyntaxError: invalid syntax
+added stuff
+SyntaxError: invalid syntax
