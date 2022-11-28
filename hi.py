@@ -2,3 +2,8 @@ Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1
 Type "help", "copyright", "credits" or "license()" for more information.
 #hello world dd
 Hekki
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    Hekki
+NameError: name 'Hekki' is not defined
+making name
